@@ -39,10 +39,6 @@ GreenSenseAI is a cutting-edge AI assistant specialized in agriculture. Our miss
 ------------
 Contributions are welcome! If you'd like to contribute to GreenSenseAI, please fork the repository and submit a pull request.
 
-## License
--------
-GreenSenseAI is licensed under the MIT License. See `LICENSE` for details.
-
 ## Acknowledgments
 ----------------
 We would like to acknowledge the following libraries and frameworks that have made this project possible:
