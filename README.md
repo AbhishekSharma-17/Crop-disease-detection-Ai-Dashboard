@@ -54,4 +54,4 @@ We would like to acknowledge the following libraries and frameworks that have ma
 
 ## Contact
 --------
-If you have any questions or need help with GreenSenseAI, please don't hesitate to reach out to us at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or need help with GreenSenseAI, please don't hesitate to reach out to us at abhishekshara705@gmail.com.
